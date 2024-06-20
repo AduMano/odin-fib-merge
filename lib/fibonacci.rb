@@ -32,10 +32,6 @@ end
 #         fibs_rec(4)
 #           fibs_rec(3)
 #             fibs_rec(2)
-#               fibs_rec(1)
-#                 fibs_rec(0)
-#                 return [0]
-#               return [0, 1]
 #             return [0, 1]
 #           return [0, 1, (0 + 1) 1]
 #         return [0, 1, 1, (1 + 1) 2]
